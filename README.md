@@ -1,4 +1,3 @@
-
 # Computer in the Past, Present and Future
 
 ## Introduction
